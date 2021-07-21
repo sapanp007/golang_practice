@@ -1,8 +1,8 @@
-package main
+package arrays
 
 import "fmt"
 
-func main() {
+func Arrays() {
 	fmt.Println("Learn more about arrays in Go")
 	// var a1 [5]int
 	// a1 = [5]int{1, 2, 3, 4, 5}

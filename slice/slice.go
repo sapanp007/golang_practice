@@ -1,11 +1,11 @@
-package main
+package slice
 
 import (
 	"fmt"
 	"sort"
 )
 
-func main() {
+func Slice1() {
 	s1 := make([]int, 0)
 	var s2 []int
 	fmt.Println(s1, s2)

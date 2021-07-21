@@ -1,8 +1,8 @@
-package main
+package controlstructure
 
 import "fmt"
 
-func main() {
+func Controlstructure() {
 	var x int = 89
 
 	// if-else block
