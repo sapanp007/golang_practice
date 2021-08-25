@@ -1,6 +1,15 @@
 package arrays
 
-import "fmt"
+import (
+	"fmt"
+
+	ar "sapan.com/maps"
+)
+
+type S1 struct {
+	A1 ar.S2
+	A2 float64
+}
 
 func Arrays() {
 	fmt.Println("Learn more about arrays in Go")
